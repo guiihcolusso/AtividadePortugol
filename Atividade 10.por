@@ -9,7 +9,7 @@ programa
 		
 		para (contador = 0; contador <= escolha1; contador++) 
 		{
-
+			u.aguarde(500)
 			escreva ("»» ", contador + " ««" + "\n")
 		}
 	}
