@@ -2,23 +2,16 @@
 
 <html>
 <head>
-<script>
-function open_windows(iURL)
-{
-window.open(iURL);
-}
-</script>
 </head>
 <body>
 <table>
 <tr><td>
-<font>Ezserver Channel and Movie examples</font>
 </td></tr>
 <tr><td>
-<a href="javascript:void(0)" onclick=open_windows("https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%201.por")>Atividade 1</a>
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%201.por"><button>Atividade 1</button>
 </td></tr>
 <tr><td>
-<a href="javascript:void(0)" onclick=open_windows("https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por")>Atividade 2</a>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 2</button>
 </td></tr>
 </table>
 </body>
