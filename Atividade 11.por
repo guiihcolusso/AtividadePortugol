@@ -1,6 +1,7 @@
 programa
 {
-	real valor1, valor2, valor3, valor4, valor5, valor6, valor7, valor8, valor9, valor10
+	
+real valor1, valor2, valor3, valor4, valor5, valor6, valor7, valor8, valor9, valor10
 	real resultado
 	
 	funcao inicio()
@@ -43,14 +44,3 @@ programa
 		escreva("A Media desses valores sõo : ", resultado)
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 360; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {resultado, 4, 6, 9};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
