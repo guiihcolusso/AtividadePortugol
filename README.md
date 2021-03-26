@@ -8,9 +8,6 @@ Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade d
 </head>
 <body>
 <table>
-<tr><td>
-</td></tr>
- 
 <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%201.por"><button>Atividade 1</button>
 <tr><td>
 </td></tr>
