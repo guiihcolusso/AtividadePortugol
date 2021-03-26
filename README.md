@@ -39,7 +39,7 @@ Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade d
 <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%209.por"><button>Atividade 9</button>
 </td></tr>
 <tr><td>
- <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 10</button>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
 </td></tr>
 <tr><td>
  
