@@ -10,7 +10,6 @@ Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade d
 <table>
 <tr><td>
 </td></tr>
-<tr><td>
  
 <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%201.por"><button>Atividade 1</button>
 </td></tr>
