@@ -56,10 +56,10 @@
 <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2016.por"><button>Atividade 16</button>
 <br></br>
 
-<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2017.porr"><button>Atividade 17</button>
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2017.por"><button>Atividade 17</button>
 <br></br>
 
-<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2018.por"><button>Atividade 18</button>
 <br></br>
 
 <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
