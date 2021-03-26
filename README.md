@@ -15,22 +15,28 @@
  <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 2</button>
 </td></tr>
 <tr><td>
- <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 2</button>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 3</button>
 </td></tr>
 <tr><td>
- <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 2</button>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 4</button>
 </td></tr>
 <tr><td>
-<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%201.por"><button>Atividade 1</button>
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%201.por"><button>Atividade 5</button>
 </td></tr>
 <tr><td>
- <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 2</button>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 6</button>
 </td></tr>
 <tr><td>
- <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 2</button>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 7</button>
 </td></tr>
 <tr><td>
- <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 2</button>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 8</button>
+</td></tr>
+<tr><td>
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 9</button>
+</td></tr>
+<tr><td>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 10</button>
 </td></tr>
 <tr><td>
  
