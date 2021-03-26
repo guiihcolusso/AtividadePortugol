@@ -21,7 +21,7 @@ Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade d
  <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%203.por"><button>Atividade 3</button>
 </td></tr>
 <tr><td>
- <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 4</button>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%204.por"><button>Atividade 4</button>
 </td></tr>
 <tr><td>
 <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%201.por"><button>Atividade 5</button>
