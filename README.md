@@ -15,7 +15,7 @@
  <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 2</button>
 </td></tr>
 <tr><td>
- <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 3</button>
+ <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%203.porr"><button>Atividade 3</button>
 </td></tr>
 <tr><td>
  <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%202.por"><button>Atividade 4</button>
