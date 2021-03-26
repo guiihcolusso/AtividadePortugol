@@ -2,7 +2,7 @@ programa
 {
 	inclua biblioteca Util --> u
 	
-inteiro contador , resultado
+inteiro contador
 	funcao inicio()
 	{
 		
