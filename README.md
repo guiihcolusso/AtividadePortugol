@@ -42,6 +42,5 @@ Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade d
  
 
 </tr>
-<td>
 </table>
 </body>
