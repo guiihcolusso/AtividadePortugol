@@ -37,8 +37,8 @@
 
 <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
 
- 
+ </tr>
 <br> Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza: guiihcolusso.dev@gmail.com </br>
-</tr>
+
 </table>
 </body>
