@@ -36,6 +36,34 @@
 <br></br>
 
 <a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<br></br>
+
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2011.por"><button>Atividade 11</button>
+<br></br>
+
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<br></br>
+
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<br></br>
+
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<br></br>
+
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<br></br>
+
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<br></br>
+
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<br></br>
+
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<br></br>
+
+<a href="https://raw.githubusercontent.com/guiihcolusso/AtividadePortugol/main/Atividade%2010.por"><button>Atividade 10</button>
+<br></br>
 
  </tr>
 <br> Em caso de bugs, erros, dúvidas, entre outros motivos que tenha a necessidade de contato, por gentileza: guiihcolusso.dev@gmail.com </br>
