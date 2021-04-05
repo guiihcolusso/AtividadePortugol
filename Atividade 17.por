@@ -9,7 +9,7 @@ real altura, peso, imc, imc2
 	{
 		escreva("██████████████████████████████████████████\n")
 		escreva("    Olá, Bem vindo ao Calculador de IMC   \n")
-		escreva("             MasterDEV - 2021             \n")
+		escreva("          Guilherme Colusso - 2021        \n")
 		escreva("██████████████████████████████████████████\n")
 		escreva("\n")
 		u.aguarde(2500)
